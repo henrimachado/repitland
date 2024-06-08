@@ -1,0 +1,26 @@
+[
+    {
+        "cpf": 67890123456,
+        "username": "lucasrocha",
+        "password": "senha456",
+        "user_type_id": 1,
+        "name": "Lucas Rocha",
+        "phone_number": "+5511444444444"
+    },
+    {
+        "cpf": 78901234567,
+        "username": "paulocosta",
+        "password": "senha789",
+        "user_type_id": 2,
+        "name": "Paulo Costa",
+        "phone_number": "+5511333333333"
+    },
+    {
+        "cpf": 89012345678,
+        "username": "anacarolina",
+        "password": "senha890",
+        "user_type_id": 2,
+        "name": "Ana Carolina",
+        "phone_number": "+5511222222222"
+    }
+]

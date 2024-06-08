@@ -1,0 +1,37 @@
+[
+    {
+        "name": "João Silva",
+        "cpf": 12345678901,
+        "birthday": "1980-02-20T00:00:00.000Z",
+        "email": "joaosilva@example.com",
+        "phone_number": "+5511999999999"
+    },
+    {
+        "name": "Maria Santos",
+        "cpf": 23456789012,
+        "birthday": "1985-03-25T00:00:00.000Z",
+        "email": "mariasantos@example.com",
+        "phone_number": "+5511888888888"
+    },
+    {
+        "name": "Roberto Oliveira",
+        "cpf": 34567890123,
+        "birthday": "1990-04-30T00:00:00.000Z",
+        "email": "robertooliveira@example.com",
+        "phone_number": "+5511777777777"
+    },
+    {
+        "name": "Alice Souza",
+        "cpf": 45678901234,
+        "birthday": "1995-05-05T00:00:00.000Z",
+        "email": "alicesouza@example.com",
+        "phone_number": "+5511666666666"
+    },
+    {
+        "name": "Carlos Pereira",
+        "cpf": 56789012345,
+        "birthday": "2000-06-10T00:00:00.000Z",
+        "email": "carlospereira@example.com",
+        "phone_number": "+5511555555555"
+    }
+]

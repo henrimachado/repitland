@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "animal_id": 1,
+        "client_id": 12345678901,
+        "created_at": "2024-05-14T00:00:00.000Z",
+        "price": 200.00,
+        "discount": 0,
+        "created_by": 67890123456,
+        "sold_by": 78901234567
+    },
+    {
+        "id": 2,
+        "animal_id": 2,
+        "client_id": 23456789012,
+        "created_at": "2024-05-14T00:00:00.000Z",
+        "price": 135.00,
+        "discount": 0.1,
+        "created_by": 78901234567,
+        "sold_by": 89012345678
+    },
+    {
+        "id": 3,
+        "animal_id": 3,
+        "client_id": 34567890123,
+        "created_at": "2024-05-14T00:00:00.000Z",
+        "price": 240.00,
+        "discount": 0.2,
+        "created_by": 89012345678,
+        "sold_by": 67890123456
+    }
+]
