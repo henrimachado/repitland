@@ -19,7 +19,7 @@ Você deverá copiar seu certificado e chave pública tanto para a pasta ssl no 
 Para clonar o repositório da aplicação, utilize o comando:
 
 ```bash
-git clone  
+git clone https://github.com/henrimachado/repitland.git
 ```
 
 ## Preparando a base de dados
