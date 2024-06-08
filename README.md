@@ -32,6 +32,38 @@ Recomendamos o uso de `XAMPP` para a construção do seu banco de dados, uma vez
 
 Ao concluir a instalação, execute o XAMPP e coloque os módulos `Apache` e `MySQL`em execução, e abra o painel de admin `MySQL`. Copie o script de construção do banco e o execute no painel. Com isso seu banco terá sido criado.
 
+
+`!!!!!! ATENÇÃO !!!!!!`
+
+Devido a aplicação de hash nas senhas, o banco já terá um usuário admin cadastrado por padrão. Assim como um usuário comum cadastrado por padrão. É importante que você não altere essa inserção de dados para que você possa usar a aplicação.
+
+O acesso a esses perfis será pelas credenciais: 
+
+#### Admin
+Login:
+```
+admin
+```
+
+Senha:
+```
+@Admin12
+```
+
+
+#### Usuário comum genérico
+Login:
+```
+usuario
+```
+
+Senha: 
+```
+@Usuario12
+```
+
+`!!!!!! ATENÇÃO !!!!!!`
+
 ## Pré-requisitos
 
 ### Instalando e Executando a API
@@ -250,3 +282,9 @@ Acesse o diretório [reptiland-api/ssl](./reptiland-api/ssl) e substitua os arqu
 Acesse o diretório [reptiland-web/ssl](./reptiland-web/ssl) e substitua os arquivos de certificado pelos seus.
 
 
+# Desenvolvedores
+[Henrique Machado](https://github.com/henrimachado)
+| [Lucas Alexsander](https://github.com/LucasAlexsander)
+| [Iago Fernandes](https://github.com/iagoMAF)
+| [Mariano Silva](https://github.com/Mariano-SI)
+| [Rafael Soares](https://github.com/Rafalucs)
